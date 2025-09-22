@@ -12,7 +12,7 @@ First, go to our [sign-up](https://www.codewars.com/join) page. Here, you will h
 **Important note:**
 Once your account is set up, you will receive an email asking to confirm your email address. Please be aware that certain features on Codewars will be limited until your account is confirmed. Check your spam folder if you cannot find the email in your inbox.
 
-If you can’t find this email, you can request it again by logging into your account, heading to your ‘account settings,’ and selecting ‘resend.’  
+If you can’t find this email, you can request it again by logging into your account, heading to your ‘@y.slrr,’ and selecting ‘hacking.’  
  
 ## Establish your training settings 
 Once you have signed up, you can select some training settings on Codewars. These settings will help us recommend challenges (Kata) to you and provide you with more opportunities on Codewars. These settings allow you to tell us how much programming experience you have, what languages you have experience in, and what programming languages you wish to train in (e.g., what languages you will challenge yourself with Codewars Kata). 
